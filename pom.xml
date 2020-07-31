@@ -52,6 +52,7 @@
     </dependencyManagement>
 
     <build>
+        <finalName>learn-jenkins</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
